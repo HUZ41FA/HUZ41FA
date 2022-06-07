@@ -1,7 +1,7 @@
 ### - 👋 Hi, I’m Huzaifa Khan
 ### - 👀 I’m interested in Web Development and Machine Learning
 ### - 🌱 I’m currently learning backend development and Networking
-### - 💞️ I’m looking to collaborate on web dev and ML projects
+### - 💞️ I’m looking to collaborate on Backend Developement and Microservices
 
 
 <!---
